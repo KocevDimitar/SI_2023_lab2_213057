@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-05-30T17:10:01" hostname="Dimitars-MacBook-Pro.local" time="0.015">
+  <properties/>
+  <testcase name="passwordAndEmailNull()" classname="SILab2Test" time="0.007"/>
+  <testcase name="longPassword()" classname="SILab2Test" time="0.0"/>
+  <testcase name="passwordDoesNotContainSpecialChar()" classname="SILab2Test" time="0.0"/>
+  <testcase name="identicalPassword()" classname="SILab2Test" time="0.001"/>
+  <testcase name="EmptyUserListValidUser()" classname="SILab2Test" time="0.0"/>
+  <testcase name="uniquePassword()" classname="SILab2Test" time="0.0"/>
+  <testcase name="passwordContainsWhiteSpace()" classname="SILab2Test" time="0.001"/>
+  <testcase name="userNullException()" classname="SILab2Test" time="0.001"/>
+  <testcase name="invalidEmail()" classname="SILab2Test" time="0.001"/>
+  <testcase name="passwordNull()" classname="SILab2Test" time="0.0"/>
+  <testcase name="userListEmpty()" classname="SILab2Test" time="0.0"/>
+  <testcase name="emailNull()" classname="SILab2Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
